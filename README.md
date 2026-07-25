@@ -15,6 +15,4 @@ If the input is a palindrome, the program :
 
 # Example 
 - Input : "radar"
-- Output : 
- - Dictionary: {'radar': 5}  
- - Character list: ['r','a', 'd', 'a', 'r']
+- Output :  Dictionary: {'radar': 5},  Character list: ['r','a', 'd', 'a', 'r']
